@@ -1,10 +1,13 @@
-from app.contracts.errors import ConfigurationError
+from app.config.settings import Settings
+from app.vectorstores.chroma import ChromaVectorStore
 
 
-def create_vector_store(provider: str, **kwargs):
-    if provider == "chroma":
-        from app.vectorstores.chroma import ChromaVectorStore
+def create_vector_store(settings: Settings) -> ChromaVectorStore:
+    if settings.vector_store_type != "chroma":
+        raise ValueError(
+            f"Unsupported vector store: {settings.vector_store_type}"
+        )
 
-        return ChromaVectorStore(**kwargs)
-
-    raise ConfigurationError(f"Unsupported vector store provider: {provider}")
+    return ChromaVectorStore(
+        path=settings.vector_store_path,
+    )

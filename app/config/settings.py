@@ -24,10 +24,12 @@ class Settings(BaseSettings):
     openai_endpoint: str | None = Field(None, alias="OPENAI_ENDPOINT")
 
     # Embeddings
-    embedding_model: str = Field(
-        "sentence-transformers/all-MiniLM-L6-v2",
-        alias="EMBEDDING_MODEL",
-    )
+    # embedding_model: str = Field(
+    #     "BAAI/bge-m3",
+    #     alias="EMBEDDING_MODEL",
+    # )
+    embedding_provider: str = "sentence_transformer"
+    embedding_model: str = "BAAI/bge-m3"
 
     # Vector store
     vector_store_type: str = Field("chroma", alias="VECTOR_STORE_TYPE")
