@@ -1,48 +1,52 @@
-from __future__ import annotations
-
-import argparse
-
-from app.main import create_runtime
-
-
-def parse_args() -> argparse.Namespace:
-    parser = argparse.ArgumentParser(description="Production LangGraph Agent")
-    parser.add_argument("--user", required=True, help="User identifier")
-    parser.add_argument("--thread", required=True, help="Conversation thread identifier")
-    parser.add_argument("--query", help="Run one query instead of interactive mode")
-    return parser.parse_args()
+from app.config.settings import get_settings
+from app.contracts.runtime import AgentRequest
+from app.graph.graph import Phase0Graph
+from app.runtime.agent import AgentRuntime
+from app.runtime.conversation_store import (
+    JsonlConversationStore,
+)
 
 
 def main() -> None:
-    args = parse_args()
-    runtime = create_runtime()
+    settings = get_settings()
 
-    if args.query:
-        response = runtime.run(args.user, args.thread, args.query)
-        print(response.answer)
-        print(f"trace_id={response.trace_id}")
-        return
+    store = JsonlConversationStore(
+        settings.conversation_data_path
+    )
 
-    print("Agent started")
-    print(f"User: {args.user}")
-    print(f"Thread: {args.thread}")
-    print("Type 'exit' to quit.")
+    runtime = AgentRuntime(
+        conversation_store=store,
+        graph=Phase0Graph(),
+    )
+
+    print("=" * 60)
+    print("Conversational Memory Agent")
+    print("Phase 0")
+    print("=" * 60)
+
+    user_id = input("User ID: ").strip()
+    thread_id = input("Thread ID: ").strip()
 
     while True:
-        try:
-            message = input("You: ").strip()
-        except (EOFError, KeyboardInterrupt):
-            print()
+        message = input("\nYou: ").strip()
+
+        if message.lower() in {"exit", "quit"}:
+            print("Goodbye.")
             break
 
-        if message.lower() == "exit":
-            break
         if not message:
             continue
 
-        response = runtime.run(args.user, args.thread, message)
-        print(f"Agent: {response.answer}")
-        print(f"trace_id={response.trace_id}")
+        response = runtime.handle(
+            AgentRequest(
+                user_id=user_id,
+                thread_id=thread_id,
+                message=message,
+            )
+        )
+
+        print(f"\nAssistant: {response.answer}")
+        print(f"Trace ID: {response.trace_id}")
 
 
 if __name__ == "__main__":

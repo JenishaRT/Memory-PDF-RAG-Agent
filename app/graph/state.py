@@ -1,24 +1,30 @@
-from typing import TypedDict
+from typing import Any, TypedDict
 
-from app.contracts.context import Context
-from app.contracts.retrieval import LTMResult, RAGResult, RetrievedItem, STMResult
+from app.contracts.retrieval import (
+    MergedRetrievalResult,
+    RetrievalResult,
+)
 from app.contracts.routing import RetrievalPlan
-from app.contracts.tracing import ValidationResult
 
 
-class GraphState(TypedDict):
+class GraphState(TypedDict, total=False):
     user_id: str
     thread_id: str
     query: str
-    rewritten_query: str | None
-    retrieval_plan: RetrievalPlan | None
-    stm_result: STMResult | None
-    ltm_result: LTMResult | None
-    pdf_result: RAGResult | None
-    merged_results: list[RetrievedItem]
-    reranked_results: list[RetrievedItem]
-    context: Context | None
-    answer: str | None
-    validation: ValidationResult | None
+    rewritten_query: str
+
+    retrieval_plan: RetrievalPlan
+
+    stm_result: RetrievalResult
+    ltm_result: RetrievalResult
+    pdf_result: RetrievalResult
+
+    merged_results: MergedRetrievalResult
+    reranked_results: MergedRetrievalResult
+
+    context: str
+    answer: str
+    validation: dict[str, Any]
+
     retry_count: int
     trace_id: str

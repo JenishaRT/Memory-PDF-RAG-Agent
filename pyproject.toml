@@ -1,13 +1,26 @@
 [build-system]
-requires = ["setuptools>=68"]
+requires = ["setuptools>=68", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "production-langgraph-agent"
+name = "conversational-memory-agent"
 version = "0.1.0"
-description = "Production-oriented LangGraph agent with STM, LTM and PDF RAG"
+description = "Production-oriented conversational AI system with STM, LTM, PDF RAG, and LangGraph"
 requires-python = ">=3.11"
+dependencies = [
+    "langchain-core>=0.3.0",
+    "langgraph>=0.2.0",
+    "pydantic>=2.7.0",
+    "pydantic-settings>=2.2.0",
+    "python-dotenv>=1.0.0",
+]
 
 [tool.pytest.ini_options]
-pythonpath = ["."]
 testpaths = ["tests"]
+python_files = ["test_*.py"]
+python_classes = ["Test*"]
+python_functions = ["test_*"]
+addopts = "-v"
+
+[tool.setuptools.packages.find]
+include = ["app*"]

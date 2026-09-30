@@ -1,13 +1,27 @@
-from __future__ import annotations
+from typing import Literal
 
 from pydantic import BaseModel, Field
 
-from app.contracts.retrieval import RetrievedItem
+
+ContextSource = Literal["stm", "ltm", "pdf"]
 
 
-class Context(BaseModel):
-    stm: list[RetrievedItem] = Field(default_factory=list)
-    ltm: list[RetrievedItem] = Field(default_factory=list)
-    documents: list[RetrievedItem] = Field(default_factory=list)
-    token_budget: int = Field(ge=1)
-    estimated_tokens: int = Field(default=0, ge=0)
+class ContextItem(BaseModel):
+    source: ContextSource
+    content: str
+    item_id: str
+    score: float | None = None
+    metadata: dict[str, object] = Field(default_factory=dict)
+
+
+class AgentContext(BaseModel):
+    items: list[ContextItem] = Field(default_factory=list)
+    max_tokens: int = 6000
+    estimated_tokens: int = 0
+
+    def add(self, item: ContextItem) -> None:
+        self.items.append(item)
+
+    @property
+    def is_empty(self) -> bool:
+        return not self.items

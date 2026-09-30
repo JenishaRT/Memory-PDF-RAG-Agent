@@ -1,38 +1,58 @@
-class AppError(Exception):
-    """Base application error."""
+class ApplicationError(Exception):
+    """
+    Base exception for application level errors.
+    """
 
 
-class RetrievalError(AppError):
-    pass
+class ConfigurationError(ApplicationError):
+    """
+    Raised when application configuration is invalid.
+    """
 
 
-class EmbeddingError(AppError):
-    pass
+class ContractError(ApplicationError):
+    """
+    Raised when an internal contract is violated.
+    """
 
 
-class VectorStoreError(AppError):
-    pass
+class ConversationStoreError(ApplicationError):
+    """
+    Raised when conversation persistence fails.
+    """
 
 
-class MemoryError(AppError):
-    pass
+class RetrievalError(ApplicationError):
+    """
+    Raised when retrieval fails.
+    """
 
 
-class DocumentError(AppError):
-    pass
+class MemoryError(ApplicationError):
+    """
+    Raised when memory processing fails.
+    """
 
 
-class ValidationError(AppError):
-    pass
+class DocumentError(ApplicationError):
+    """
+    Raised when document processing fails.
+    """
 
 
-class ConfigurationError(AppError):
-    pass
+class LLMError(ApplicationError):
+    """
+    Raised when an LLM provider fails.
+    """
 
 
-class RuntimeError(AppError):
-    pass
+class EmbeddingError(ApplicationError):
+    """
+    Raised when an embedding provider fails.
+    """
 
 
-class ConversationStoreError(AppError):
-    pass
+class VectorStoreError(ApplicationError):
+    """
+    Raised when a vector store operation fails.
+    """

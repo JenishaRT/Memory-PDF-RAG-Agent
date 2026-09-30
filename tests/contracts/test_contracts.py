@@ -1,65 +1,64 @@
-from app.contracts import (
-    AgentRequest,
-    AgentResponse,
-    Conversation,
-    DocumentChunk,
-    MemoryRecord,
-    RetrievalPlan,
-    RetrievedItem,
+from app.contracts.conversation import (
+    ConversationMessage,
 )
+from app.contracts.memory import (
+    CandidateMemory,
+    MemorySource,
+)
+from app.contracts.routing import RetrievalPlan
+
+
+def test_conversation_message_contract() -> None:
+    message = ConversationMessage(
+        user_id="user_001",
+        thread_id="thread_001",
+        role="user",
+        content="Hello",
+    )
+
+    assert message.user_id == "user_001"
+    assert message.thread_id == "thread_001"
+    assert message.role == "user"
+    assert message.content == "Hello"
+    assert message.message_id
 
 
 def test_retrieval_plan_supports_multiple_sources() -> None:
-    plan = RetrievalPlan(use_stm=True, use_ltm=True, use_pdf=True)
-    assert plan.use_stm and plan.use_ltm and plan.use_pdf
+    plan = RetrievalPlan(
+        use_stm=True,
+        use_ltm=True,
+        use_pdf=True,
+    )
+
+    assert plan.use_stm is True
+    assert plan.use_ltm is True
+    assert plan.use_pdf is True
+    assert plan.any_source_selected is True
 
 
-def test_retrieved_item_preserves_source() -> None:
-    item = RetrievedItem(source="pdf", id="chunk_1", content="evidence")
-    assert item.source == "pdf"
+def test_retrieval_plan_supports_no_sources() -> None:
+    plan = RetrievalPlan()
+
+    assert plan.use_stm is False
+    assert plan.use_ltm is False
+    assert plan.use_pdf is False
+    assert plan.any_source_selected is False
 
 
-def test_core_models_validate() -> None:
-    request = AgentRequest(
-        user_id="user_001",
+def test_candidate_memory_contract() -> None:
+    source = MemorySource(
         thread_id="thread_001",
-        message="hello",
+        message_ids=["message_001"],
     )
-    response = AgentResponse(
-        user_id=request.user_id,
-        thread_id=request.thread_id,
-        answer="hello",
-        trace_id="trace_1",
-    )
-    conversation = Conversation(
-        user_id="user_001",
-        thread_id="thread_001",
-    )
-    assert response.thread_id == conversation.thread_id
 
-
-def test_document_chunk_preserves_provenance() -> None:
-    chunk = DocumentChunk(
-        chunk_id="chunk_1",
-        document_id="doc_1",
-        filename="example.pdf",
-        page_number=2,
-        section="Introduction",
-        content="text",
-    )
-    assert chunk.page_number == 2
-
-
-def test_memory_record_defaults_to_active() -> None:
-    from datetime import datetime, timezone
-
-    memory = MemoryRecord(
-        memory_id="mem_1",
+    memory = CandidateMemory(
         user_id="user_001",
         memory_type="preference",
-        content="Prefers concise answers",
-        importance=0.8,
-        created_at=datetime.now(timezone.utc),
-        updated_at=datetime.now(timezone.utc),
+        content="The user prefers concise responses.",
+        source=source,
+        confidence=0.95,
     )
-    assert memory.status.value == "active"
+
+    assert memory.user_id == "user_001"
+    assert memory.memory_type == "preference"
+    assert memory.confidence == 0.95

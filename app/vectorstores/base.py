@@ -1,39 +1,34 @@
-from __future__ import annotations
-
 from typing import Any, Protocol
 
-from pydantic import BaseModel, Field
-
-
-class VectorItem(BaseModel):
-    id: str
-    content: str
-    vector: list[float]
-    metadata: dict[str, Any] = Field(default_factory=dict)
-
-
-class VectorQuery(BaseModel):
-    query_vector: list[float]
-    top_k: int = Field(ge=1)
-    metadata_filter: dict[str, Any] = Field(default_factory=dict)
-
-
-class VectorMatch(BaseModel):
-    id: str
-    content: str
-    score: float | None = None
-    metadata: dict[str, Any] = Field(default_factory=dict)
+from app.contracts.retrieval import RetrievedItem
 
 
 class VectorStore(Protocol):
-    def add(self, items: list[VectorItem]) -> None:
+    def add(
+        self,
+        *,
+        collection: str,
+        ids: list[str],
+        documents: list[str],
+        embeddings: list[list[float]],
+        metadatas: list[dict[str, Any]],
+    ) -> None:
         ...
 
-    def search(self, query: VectorQuery) -> list[VectorMatch]:
+    def search(
+        self,
+        *,
+        collection: str,
+        query_embedding: list[float],
+        top_k: int,
+        filters: dict[str, Any] | None = None,
+    ) -> list[RetrievedItem]:
         ...
 
-    def update(self, items: list[VectorItem]) -> None:
-        ...
-
-    def delete(self, ids: list[str]) -> None:
+    def delete(
+        self,
+        *,
+        collection: str,
+        ids: list[str],
+    ) -> None:
         ...

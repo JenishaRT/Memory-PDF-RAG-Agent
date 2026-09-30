@@ -1,22 +1,26 @@
-from __future__ import annotations
-
-from typing import Any
-
 from pydantic import BaseModel, Field
+
+
+class DocumentMetadata(BaseModel):
+    document_id: str
+    filename: str
+    page_number: int | None = None
+    section: str | None = None
+    metadata: dict[str, object] = Field(default_factory=dict)
 
 
 class Document(BaseModel):
     document_id: str
     filename: str
-    source: str
-    metadata: dict[str, Any] = Field(default_factory=dict)
+    content: str
+    metadata: DocumentMetadata
 
 
 class DocumentChunk(BaseModel):
     chunk_id: str
     document_id: str
     filename: str
+    content: str
     page_number: int | None = None
     section: str | None = None
-    content: str
-    metadata: dict[str, Any] = Field(default_factory=dict)
+    metadata: dict[str, object] = Field(default_factory=dict)

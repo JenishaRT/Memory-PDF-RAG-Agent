@@ -1,3 +1,5 @@
+from functools import lru_cache
+
 from pydantic import Field
 from pydantic_settings import BaseSettings, SettingsConfigDict
 
@@ -6,28 +8,51 @@ class Settings(BaseSettings):
     model_config = SettingsConfigDict(
         env_file=".env",
         env_file_encoding="utf-8",
+        case_sensitive=False,
         extra="ignore",
     )
 
-    openai_api_key: str | None = None
-    openai_deployment: str | None = None
-    openai_api_version: str | None = None
-    openai_endpoint: str | None = None
+    # App
+    app_env: str = Field("development", alias="APP_ENV")
+    app_name: str = Field("conversational-memory-agent", alias="APP_NAME")
+    log_level: str = Field("INFO", alias="LOG_LEVEL")
 
-    llm_provider: str = "azure_openai"
-    embedding_provider: str = "huggingface"
-    embedding_model: str = "sentence-transformers/all-MiniLM-L6-v2"
-    vector_store_provider: str = "chroma"
-    vector_store_path: str = "vectorstore/chroma"
+    # OpenAI
+    openai_api_key: str | None = Field(None, alias="OPENAI_API_KEY")
+    openai_deployment: str | None = Field(None, alias="OPENAI_DEPLOYMENT")
+    openai_api_version: str | None = Field(None, alias="OPENAI_API_VERSION")
+    openai_endpoint: str | None = Field(None, alias="OPENAI_ENDPOINT")
 
-    stm_top_k: int = Field(default=5, ge=1)
-    ltm_top_k: int = Field(default=5, ge=1)
-    pdf_top_k: int = Field(default=5, ge=1)
-    context_token_budget: int = Field(default=4000, ge=1)
-    max_retries: int = Field(default=2, ge=0)
+    # Embeddings
+    embedding_model: str = Field(
+        "sentence-transformers/all-MiniLM-L6-v2",
+        alias="EMBEDDING_MODEL",
+    )
 
-    conversation_data_path: str = "data/conversations"
-    trace_data_path: str = "data/traces"
+    # Vector store
+    vector_store_type: str = Field("chroma", alias="VECTOR_STORE_TYPE")
+    vector_store_path: str = Field("./vectorstore", alias="VECTOR_STORE_PATH")
+    stm_collection: str = Field("stm_collection", alias="STM_COLLECTION")
+    ltm_collection: str = Field("ltm_collection", alias="LTM_COLLECTION")
+    pdf_collection: str = Field("pdf_collection", alias="PDF_COLLECTION")
+
+    # Conversation store
+    conversation_store_type: str = Field("jsonl", alias="CONVERSATION_STORE_TYPE")
+    conversation_data_path: str = Field(
+        "./data/conversations/dev",
+        alias="CONVERSATION_DATA_PATH",
+    )
+
+    # Retrieval
+    stm_top_k: int = Field(5, alias="STM_TOP_K", ge=1)
+    ltm_top_k: int = Field(5, alias="LTM_TOP_K", ge=1)
+    pdf_top_k: int = Field(5, alias="PDF_TOP_K", ge=1)
+
+    # Agent
+    max_retries: int = Field(2, alias="MAX_RETRIES", ge=0)
+    max_context_tokens: int = Field(6000, alias="MAX_CONTEXT_TOKENS", ge=1)
 
 
-settings = Settings()
+@lru_cache
+def get_settings() -> Settings:
+    return Settings()

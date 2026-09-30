@@ -1,20 +1,21 @@
-from __future__ import annotations
-
-from uuid import uuid4
-
-from app.contracts.runtime import AgentResponse
+from app.contracts.runtime import (
+    AgentRequest,
+    AgentResponse,
+)
 
 
 class Phase0Graph:
-    """Minimal graph boundary used until the real LangGraph is implemented."""
-
-    def invoke(self, *, user_id: str, thread_id: str, query: str) -> AgentResponse:
+    def run(
+        self,
+        request: AgentRequest,
+        trace_id: str,
+    ) -> AgentResponse:
         return AgentResponse(
-            user_id=user_id,
-            thread_id=thread_id,
+            user_id=request.user_id,
+            thread_id=request.thread_id,
             answer=(
-                "Phase 0 skeleton is running. Retrieval and the full LangGraph "
-                "workflow will be implemented in later phases."
+                "Phase 0 skeleton is working. "
+                "The actual agent graph has not been implemented yet."
             ),
-            trace_id=f"trace_{uuid4().hex}",
+            trace_id=trace_id,
         )

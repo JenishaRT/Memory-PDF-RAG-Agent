@@ -1,42 +1,91 @@
-from app.contracts.context import Context
-from app.contracts.conversation import Conversation, ConversationMessage
-from app.contracts.documents import Document, DocumentChunk
+from app.contracts.context import (
+    AgentContext,
+    ContextItem,
+)
+from app.contracts.conversation import (
+    Conversation,
+    ConversationMessage,
+)
+from app.contracts.documents import (
+    Document,
+    DocumentChunk,
+    DocumentMetadata,
+)
+from app.contracts.errors import (
+    ApplicationError,
+    ConfigurationError,
+    ContractError,
+    ConversationStoreError,
+    DocumentError,
+    EmbeddingError,
+    LLMError,
+    MemoryError,
+    RetrievalError,
+    VectorStoreError,
+)
 from app.contracts.memory import (
     CandidateMemory,
-    MemoryAction,
     MemoryDecision,
     MemoryRecord,
     MemorySource,
-    MemoryStatus,
-    MemoryType,
 )
 from app.contracts.retrieval import (
     LTMQuery,
-    LTMResult,
+    MergedRetrievalResult,
     PDFQuery,
-    RAGResult,
-    RetrievedItem,
-    RetrievalFailure,
+    RetrievalRequest,
     RetrievalResult,
+    RetrievedItem,
     STMQuery,
-    STMResult,
 )
 from app.contracts.routing import RetrievalPlan
-from app.contracts.runtime import AgentRequest, AgentResponse
+from app.contracts.runtime import (
+    AgentRequest,
+    AgentResponse,
+    ConversationStore,
+    GraphRunner,
+)
 from app.contracts.tracing import (
     GraphTrace,
-    LTMTrace,
-    PDFTrace,
-    STMTrace,
-    ValidationResult,
+    MemoryTrace,
+    RetrievalTrace,
 )
 
 __all__ = [
-    "AgentRequest", "AgentResponse", "CandidateMemory", "Context",
-    "Conversation", "ConversationMessage", "Document", "DocumentChunk",
-    "GraphTrace", "LTMQuery", "LTMResult", "LTMTrace", "MemoryAction",
-    "MemoryDecision", "MemoryRecord", "MemorySource", "MemoryStatus",
-    "MemoryType", "PDFQuery", "PDFTrace", "RAGResult", "RetrievedItem",
-    "RetrievalFailure", "RetrievalPlan", "RetrievalResult", "STMQuery",
-    "STMResult", "STMTrace", "ValidationResult",
+    "AgentContext",
+    "ContextItem",
+    "Conversation",
+    "ConversationMessage",
+    "Document",
+    "DocumentChunk",
+    "DocumentMetadata",
+    "ApplicationError",
+    "ConfigurationError",
+    "ContractError",
+    "ConversationStoreError",
+    "DocumentError",
+    "EmbeddingError",
+    "LLMError",
+    "MemoryError",
+    "RetrievalError",
+    "VectorStoreError",
+    "CandidateMemory",
+    "MemoryDecision",
+    "MemoryRecord",
+    "MemorySource",
+    "LTMQuery",
+    "MergedRetrievalResult",
+    "PDFQuery",
+    "RetrievalRequest",
+    "RetrievalResult",
+    "RetrievedItem",
+    "STMQuery",
+    "RetrievalPlan",
+    "AgentRequest",
+    "AgentResponse",
+    "ConversationStore",
+    "GraphRunner",
+    "GraphTrace",
+    "MemoryTrace",
+    "RetrievalTrace",
 ]
