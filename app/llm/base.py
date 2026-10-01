@@ -1,12 +1,3 @@
-from typing import Any, Protocol
+from app.llm.provider import LLMProvider
 
-
-class LLMProvider(Protocol):
-    def invoke(
-        self,
-        messages: list[dict[str, str]],
-        *,
-        temperature: float = 0.0,
-        **kwargs: Any,
-    ) -> str:
-        ...
+__all__ = ["LLMProvider"]
