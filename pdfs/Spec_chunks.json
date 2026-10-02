@@ -1,0 +1,2912 @@
+[
+  {
+    "chunk_id": "chunk-0001",
+    "page_number": 1,
+    "heading_path": "(no heading yet)",
+    "text": "HALIFAX INFIRMARY",
+    "bounding_region": {
+      "page_number": 1,
+      "bbox": [
+        77.39999389648438,
+        92.38774108886719,
+        192.19497680664062,
+        104.68502807617188
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0002",
+    "page_number": 1,
+    "heading_path": "(no heading yet)",
+    "text": "EXPANSION",
+    "bounding_region": {
+      "page_number": 1,
+      "bbox": [
+        77.39999389648438,
+        105.10774230957031,
+        148.18646240234375,
+        117.405029296875
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0003",
+    "page_number": 1,
+    "heading_path": "(no heading yet)",
+    "text": "23 65 16",
+    "bounding_region": {
+      "page_number": 1,
+      "bbox": [
+        525.1997680664062,
+        92.38774108886719,
+        568.0907592773438,
+        104.68502807617188
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0004",
+    "page_number": 1,
+    "heading_path": "(no heading yet)",
+    "text": "COOLING TOWERS \u2013",
+    "bounding_region": {
+      "page_number": 1,
+      "bbox": [
+        456.1199951171875,
+        105.10774230957031,
+        570.9826049804688,
+        117.405029296875
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0005",
+    "page_number": 1,
+    "heading_path": "(no heading yet)",
+    "text": "INDUCED DRAFT",
+    "bounding_region": {
+      "page_number": 1,
+      "bbox": [
+        477.5999755859375,
+        117.70774841308594,
+        567.9745483398438,
+        130.00503540039062
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0006",
+    "page_number": 1,
+    "heading_path": "(no heading yet)",
+    "text": "100% Design Development",
+    "bounding_region": {
+      "page_number": 1,
+      "bbox": [
+        72.0,
+        709.6641235351562,
+        201.9168701171875,
+        723.0963745117188
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0007",
+    "page_number": 1,
+    "heading_path": "(no heading yet)",
+    "text": "Page 1 of 5",
+    "bounding_region": {
+      "page_number": 1,
+      "bbox": [
+        518.8800048828125,
+        709.6641235351562,
+        571.8768920898438,
+        723.0963745117188
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0008",
+    "page_number": 1,
+    "heading_path": "PART 1 GENERAL",
+    "text": "SUBMITTALS",
+    "bounding_region": {
+      "page_number": 1,
+      "bbox": [
+        115.08000183105469,
+        171.8433074951172,
+        184.9528350830078,
+        182.93756103515625
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0009",
+    "page_number": 1,
+    "heading_path": "PART 1 GENERAL",
+    "text": "Shop Drawings/Product Data: Submit cooling tower Shop Drawings/product Design Data sheets,",
+    "bounding_region": {
+      "page_number": 1,
+      "bbox": [
+        115.05281066894531,
+        192.3633270263672,
+        569.4747314453125,
+        203.45758056640625
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0010",
+    "page_number": 1,
+    "heading_path": "PART 1 GENERAL",
+    "text": "complete with piping and power and control wiring schematics, accessories, rated capacities, weights,",
+    "bounding_region": {
+      "page_number": 1,
+      "bbox": [
+        115.08000183105469,
+        203.88331604003906,
+        569.5325927734375,
+        214.97756958007812
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0011",
+    "page_number": 1,
+    "heading_path": "PART 1 GENERAL",
+    "text": "and all other data to confirm that the cooling tower proposed meets all requirement of the Project",
+    "bounding_region": {
+      "page_number": 1,
+      "bbox": [
+        115.08000183105469,
+        215.4033203125,
+        569.4684448242188,
+        226.49757385253906
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0012",
+    "page_number": 1,
+    "heading_path": "PART 1 GENERAL",
+    "text": "Agreement.",
+    "bounding_region": {
+      "page_number": 1,
+      "bbox": [
+        115.08000183105469,
+        226.92330932617188,
+        175.006103515625,
+        238.01756286621094
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0013",
+    "page_number": 1,
+    "heading_path": "PART 1 GENERAL",
+    "text": "QUALITY ASSURANCE",
+    "bounding_region": {
+      "page_number": 1,
+      "bbox": [
+        108.0,
+        244.4433135986328,
+        220.6640167236328,
+        255.53756713867188
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0014",
+    "page_number": 1,
+    "heading_path": "PART 1 GENERAL",
+    "text": "Codes and Regulations: The cooling tower(s) and installation of cooling tower(s) are to be in accordance",
+    "bounding_region": {
+      "page_number": 1,
+      "bbox": [
+        115.05281066894531,
+        264.8432922363281,
+        569.5010375976562,
+        275.93756103515625
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0015",
+    "page_number": 1,
+    "heading_path": "PART 1 GENERAL",
+    "text": "with requirements of the following:",
+    "bounding_region": {
+      "page_number": 1,
+      "bbox": [
+        115.08000183105469,
+        276.3633117675781,
+        268.8429870605469,
+        287.45758056640625
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0016",
+    "page_number": 1,
+    "heading_path": "PART 1 GENERAL",
+    "text": "Applicable Law;",
+    "bounding_region": {
+      "page_number": 1,
+      "bbox": [
+        148.44000244140625,
+        293.88330078125,
+        233.63450622558594,
+        304.9775695800781
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0017",
+    "page_number": 1,
+    "heading_path": "PART 1 GENERAL",
+    "text": "Cooling Technology Institute CTI STD-201, Certified Cooling Towers;",
+    "bounding_region": {
+      "page_number": 1,
+      "bbox": [
+        148.44000244140625,
+        311.4033203125,
+        466.3330993652344,
+        322.4975891113281
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0018",
+    "page_number": 1,
+    "heading_path": "PART 1 GENERAL",
+    "text": "Cooling Technology Institute CTI STD-105, Acceptance Test Code;",
+    "bounding_region": {
+      "page_number": 1,
+      "bbox": [
+        148.44000244140625,
+        328.92327880859375,
+        458.02703857421875,
+        340.0175476074219
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0019",
+    "page_number": 1,
+    "heading_path": "PART 1 GENERAL",
+    "text": "ASHRAE Standard 90.1, Energy Standard for Buildings.",
+    "bounding_region": {
+      "page_number": 1,
+      "bbox": [
+        148.44000244140625,
+        346.44329833984375,
+        408.6113586425781,
+        357.5375671386719
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0020",
+    "page_number": 1,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "COOLING TOWER",
+    "bounding_region": {
+      "page_number": 1,
+      "bbox": [
+        108.0,
+        387.36328125,
+        200.09779357910156,
+        398.4575500488281
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0021",
+    "page_number": 1,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "Induced draft, cross-flow, vertical air discharge, factory assembled, with thermal performance certified",
+    "bounding_region": {
+      "page_number": 1,
+      "bbox": [
+        115.05281066894531,
+        407.88330078125,
+        569.3494873046875,
+        418.9775695800781
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0022",
+    "page_number": 1,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "by the Cooling Technology Institute and energy efficiency meeting requirements of ASHRAE 90.1.",
+    "bounding_region": {
+      "page_number": 1,
+      "bbox": [
+        115.08000183105469,
+        419.4033203125,
+        550.41064453125,
+        430.4975891113281
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0023",
+    "page_number": 1,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "General Re: Tower Construction: The tower and all its components are to be designed to withstand all",
+    "bounding_region": {
+      "page_number": 1,
+      "bbox": [
+        115.05281066894531,
+        436.92327880859375,
+        569.426025390625,
+        448.0175476074219
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0024",
+    "page_number": 1,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "applicable wind, seismic, shipping and hoisting loads, and, unless otherwise specified, all metal",
+    "bounding_region": {
+      "page_number": 1,
+      "bbox": [
+        115.08000183105469,
+        448.32330322265625,
+        569.4768676757812,
+        459.4175720214844
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0025",
+    "page_number": 1,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "components, including the support structure, casing, fan cylinder extensions, and all nuts, bolts and",
+    "bounding_region": {
+      "page_number": 1,
+      "bbox": [
+        115.08000183105469,
+        459.8432922363281,
+        569.44140625,
+        470.93756103515625
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0026",
+    "page_number": 1,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "fasteners are to be constructed of G-235 hot-dipped galvanized steel with all cut edges given a heavy",
+    "bounding_region": {
+      "page_number": 1,
+      "bbox": [
+        115.08000183105469,
+        471.36328125,
+        569.38427734375,
+        482.4575500488281
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0027",
+    "page_number": 1,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "factory coat of zinc-rich compound. The tower structure is to be constructed using double-brake flanges",
+    "bounding_region": {
+      "page_number": 1,
+      "bbox": [
+        115.08000183105469,
+        482.88330078125,
+        569.4742431640625,
+        493.9775695800781
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0028",
+    "page_number": 1,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "with water-tight joints. The fan(s) and drive system, including the motor are to be factory mounted and",
+    "bounding_region": {
+      "page_number": 1,
+      "bbox": [
+        115.08000183105469,
+        494.4033203125,
+        569.4768676757812,
+        505.4975891113281
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0029",
+    "page_number": 1,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "aligned and located in the dry entering air stream. The heat transfer section(s) consist of fill, spray water",
+    "bounding_region": {
+      "page_number": 1,
+      "bbox": [
+        115.08000183105469,
+        505.8033447265625,
+        569.421630859375,
+        516.8976440429688
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0030",
+    "page_number": 1,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "distribution system, and drift eliminators.",
+    "bounding_region": {
+      "page_number": 1,
+      "bbox": [
+        115.08000183105469,
+        517.3233032226562,
+        295.9654846191406,
+        528.4176025390625
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0031",
+    "page_number": 1,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "Corrosion Resistant Coating:  All mechanical equipment components exposed to the ambient air shall",
+    "bounding_region": {
+      "page_number": 1,
+      "bbox": [
+        115.05281066894531,
+        534.84326171875,
+        569.4296875,
+        545.9375610351562
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0032",
+    "page_number": 1,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "be provided with a corrosion resistant coating.  Coating material and coating process shall have passed",
+    "bounding_region": {
+      "page_number": 1,
+      "bbox": [
+        115.08000183105469,
+        546.36328125,
+        569.4804077148438,
+        557.4575805664062
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0033",
+    "page_number": 1,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "a minimum of 4500-hour salt spray test in accordance with ASTM standard B117.85.",
+    "bounding_region": {
+      "page_number": 1,
+      "bbox": [
+        115.08000183105469,
+        557.88330078125,
+        490.9672546386719,
+        568.9776000976562
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0034",
+    "page_number": 1,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "Fill & Drift Eliminators: Formed from self-extinguishing PVC with a flame spread rating of five as per",
+    "bounding_region": {
+      "page_number": 1,
+      "bbox": [
+        115.05281066894531,
+        575.4033203125,
+        569.3990478515625,
+        586.4976196289062
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0035",
+    "page_number": 1,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "ASTM E84, with a spacing between fill sheets of 20 mm (\u00be\"), shall limit drift loss to a maximum of 0.005",
+    "bounding_region": {
+      "page_number": 1,
+      "bbox": [
+        115.08000183105469,
+        586.8033447265625,
+        569.2907104492188,
+        597.8976440429688
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0036",
+    "page_number": 1,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "% of the recirculation rate and suspended from steel tubing elevated above the cold-water basin.",
+    "bounding_region": {
+      "page_number": 1,
+      "bbox": [
+        115.08000183105469,
+        598.3233032226562,
+        544.3307495117188,
+        609.4176025390625
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0037",
+    "page_number": 1,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "Water Distribution System: The water distribution system is to distribute water evenly over the fill and is",
+    "bounding_region": {
+      "page_number": 1,
+      "bbox": [
+        115.05281066894531,
+        615.84326171875,
+        569.4183349609375,
+        626.9375610351562
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0038",
+    "page_number": 1,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "to consist of an atmospheric basin equipped with removable stainless-steel covers and low flow weirs.",
+    "bounding_region": {
+      "page_number": 1,
+      "bbox": [
+        115.08000183105469,
+        627.36328125,
+        569.4002685546875,
+        638.4575805664062
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0039",
+    "page_number": 1,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "Provide independent connections (make up water connection, overflow connection, condenser water",
+    "bounding_region": {
+      "page_number": 1,
+      "bbox": [
+        115.08000183105469,
+        638.88330078125,
+        569.439208984375,
+        649.9776000976562
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0040",
+    "page_number": 1,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "inlet connection, and condenser water outlet connection, equalizer line connection etc.) for each cooling",
+    "bounding_region": {
+      "page_number": 1,
+      "bbox": [
+        115.08000183105469,
+        650.4033203125,
+        569.388427734375,
+        661.4976196289062
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0041",
+    "page_number": 1,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "tower cell.",
+    "bounding_region": {
+      "page_number": 1,
+      "bbox": [
+        115.08000183105469,
+        661.9232788085938,
+        162.8453369140625,
+        673.017578125
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0042",
+    "page_number": 2,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "HALIFAX INFIRMARY",
+    "bounding_region": {
+      "page_number": 2,
+      "bbox": [
+        77.39999389648438,
+        92.38774108886719,
+        192.19497680664062,
+        104.68502807617188
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0043",
+    "page_number": 2,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "EXPANSION",
+    "bounding_region": {
+      "page_number": 2,
+      "bbox": [
+        77.39999389648438,
+        105.10774230957031,
+        148.18646240234375,
+        117.405029296875
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0044",
+    "page_number": 2,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "23 65 16",
+    "bounding_region": {
+      "page_number": 2,
+      "bbox": [
+        525.1997680664062,
+        92.38774108886719,
+        568.0907592773438,
+        104.68502807617188
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0045",
+    "page_number": 2,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "COOLING TOWERS \u2013",
+    "bounding_region": {
+      "page_number": 2,
+      "bbox": [
+        456.1199951171875,
+        105.10774230957031,
+        570.9826049804688,
+        117.405029296875
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0046",
+    "page_number": 2,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "INDUCED DRAFT",
+    "bounding_region": {
+      "page_number": 2,
+      "bbox": [
+        477.5999755859375,
+        117.70774841308594,
+        567.9745483398438,
+        130.00503540039062
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0047",
+    "page_number": 2,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "100% Design Development",
+    "bounding_region": {
+      "page_number": 2,
+      "bbox": [
+        72.0,
+        709.6641235351562,
+        201.9168701171875,
+        723.0963745117188
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0048",
+    "page_number": 2,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "Page 2 of 5",
+    "bounding_region": {
+      "page_number": 2,
+      "bbox": [
+        518.8800048828125,
+        709.6641235351562,
+        571.8768920898438,
+        723.0963745117188
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0049",
+    "page_number": 2,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "Cold Water Basin: Sloped for positive drainage to a depressed section into which accumulated silt can",
+    "bounding_region": {
+      "page_number": 2,
+      "bbox": [
+        115.05281066894531,
+        142.32330322265625,
+        569.4232177734375,
+        153.4175567626953
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0050",
+    "page_number": 2,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "be flushed to prevent the build-up of silt and debris under the fill area, a large area lift-out galvanized",
+    "bounding_region": {
+      "page_number": 2,
+      "bbox": [
+        115.08000183105469,
+        153.8433074951172,
+        569.503173828125,
+        164.93756103515625
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0051",
+    "page_number": 2,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "steel suction strainer with perforated openings sized smaller than spray nozzle orifices and a galvanized",
+    "bounding_region": {
+      "page_number": 2,
+      "bbox": [
+        115.08000183105469,
+        165.36331176757812,
+        569.3445434570312,
+        176.4575653076172
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0052",
+    "page_number": 2,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "steel anti-vortexing device to prevent air entrainment, a corrosion resistant slow-acting water make-up",
+    "bounding_region": {
+      "page_number": 2,
+      "bbox": [
+        115.08000183105469,
+        176.88331604003906,
+        569.3320922851562,
+        187.97756958007812
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0053",
+    "page_number": 2,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "valve with polystyrene filled plastic float for adjustment of the operating water level, circular access",
+    "bounding_region": {
+      "page_number": 2,
+      "bbox": [
+        115.08000183105469,
+        188.4033203125,
+        569.4417724609375,
+        199.49757385253906
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0054",
+    "page_number": 2,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "doors for access to the strainer and water make-up valve assembly, and all required pipe connections.",
+    "bounding_region": {
+      "page_number": 2,
+      "bbox": [
+        115.08000183105469,
+        199.92330932617188,
+        569.4267578125,
+        211.01756286621094
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0055",
+    "page_number": 2,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "The basin is to be factory lined.",
+    "bounding_region": {
+      "page_number": 2,
+      "bbox": [
+        115.08000183105469,
+        211.4433135986328,
+        256.03570556640625,
+        222.53756713867188
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0056",
+    "page_number": 2,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "Fan(s): Axial flow type, dynamically balanced with aluminium alloy blades and air discharge through a",
+    "bounding_region": {
+      "page_number": 2,
+      "bbox": [
+        115.05281066894531,
+        228.8433074951172,
+        569.349609375,
+        239.93756103515625
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0057",
+    "page_number": 2,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "fan cylinder designed for streamlined air entry and minimum tip clearance, and equipped with a conical,",
+    "bounding_region": {
+      "page_number": 2,
+      "bbox": [
+        115.08000183105469,
+        240.3633270263672,
+        569.4517822265625,
+        251.45758056640625
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0058",
+    "page_number": 2,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "non-sagging removable fan guard. Each fan and shaft is to be supported by grease lubricated, self-",
+    "bounding_region": {
+      "page_number": 2,
+      "bbox": [
+        115.08000183105469,
+        251.88331604003906,
+        566.66455078125,
+        262.9775695800781
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0059",
+    "page_number": 2,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "aligning, heavy-duty L10 (80,000 hr. life) bearings with moisture-proof seals, integral slinger collars, and",
+    "bounding_region": {
+      "page_number": 2,
+      "bbox": [
+        115.08000183105469,
+        263.4033203125,
+        569.3953247070312,
+        274.4975891113281
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0060",
+    "page_number": 2,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "lubrication nipples.",
+    "bounding_region": {
+      "page_number": 2,
+      "bbox": [
+        115.08000183105469,
+        274.92327880859375,
+        200.57276916503906,
+        286.0175476074219
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0061",
+    "page_number": 2,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "Motor(s) and Drive: TEFC motor, variable torque, specially insulated for exterior cooling tower duty, and",
+    "bounding_region": {
+      "page_number": 2,
+      "bbox": [
+        115.05281066894531,
+        292.32330322265625,
+        569.44140625,
+        303.4175720214844
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0062",
+    "page_number": 2,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "gearbox with tire type close coupling, and guard in accordance with requirements specified in the",
+    "bounding_region": {
+      "page_number": 2,
+      "bbox": [
+        115.08000183105469,
+        303.8432922363281,
+        569.4470825195312,
+        314.93756103515625
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0063",
+    "page_number": 2,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "mechanical specification section entitled Basic Mechanical Materials and Methods.",
+    "bounding_region": {
+      "page_number": 2,
+      "bbox": [
+        115.08000183105469,
+        315.3633117675781,
+        482.70159912109375,
+        326.45758056640625
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0064",
+    "page_number": 2,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "Variable Speed Drive: In accordance with requirements specified in the mechanical specification section",
+    "bounding_region": {
+      "page_number": 2,
+      "bbox": [
+        115.05281066894531,
+        332.88330078125,
+        569.4044189453125,
+        343.9775695800781
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0065",
+    "page_number": 2,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "entitled Variable Frequency Drives and supplied with the tower by the tower Supplier. The VFD is to:",
+    "bounding_region": {
+      "page_number": 2,
+      "bbox": [
+        115.08000183105469,
+        344.4033203125,
+        560.4728393554688,
+        355.4975891113281
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0066",
+    "page_number": 2,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "Include a solid state, PID temperature controller to adjust frequency output of the drive-in",
+    "bounding_region": {
+      "page_number": 2,
+      "bbox": [
+        148.44000244140625,
+        361.92327880859375,
+        569.4254760742188,
+        373.0175476074219
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0067",
+    "page_number": 2,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "response to the tower cold water temperature, and the temperature of the cold water is to be",
+    "bounding_region": {
+      "page_number": 2,
+      "bbox": [
+        158.16000366210938,
+        373.32330322265625,
+        569.4388427734375,
+        384.4175720214844
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0068",
+    "page_number": 2,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "displayed on the VFD door;",
+    "bounding_region": {
+      "page_number": 2,
+      "bbox": [
+        158.16000366210938,
+        384.8432922363281,
+        282.026611328125,
+        395.93756103515625
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0069",
+    "page_number": 2,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "Be equipped with a pipe mounting temperature sensor with well supplied loose for field",
+    "bounding_region": {
+      "page_number": 2,
+      "bbox": [
+        148.44000244140625,
+        402.36328125,
+        569.458984375,
+        413.4575500488281
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0070",
+    "page_number": 2,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "installation;",
+    "bounding_region": {
+      "page_number": 2,
+      "bbox": [
+        158.16000366210938,
+        413.88330078125,
+        210.88401794433594,
+        424.9775695800781
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0071",
+    "page_number": 2,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "Be equipped with a bypass contactor to be cycled on and off while operating in bypass to",
+    "bounding_region": {
+      "page_number": 2,
+      "bbox": [
+        148.44000244140625,
+        431.4033203125,
+        569.5389404296875,
+        442.4975891113281
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0072",
+    "page_number": 2,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "maintain the set-point temperature of the cold water;",
+    "bounding_region": {
+      "page_number": 2,
+      "bbox": [
+        158.16000366210938,
+        442.92327880859375,
+        391.8977355957031,
+        454.0175476074219
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0073",
+    "page_number": 2,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "Be equipped with operator controls mounted on the front of the enclosure and consisting of",
+    "bounding_region": {
+      "page_number": 2,
+      "bbox": [
+        148.44000244140625,
+        460.32330322265625,
+        569.4541625976562,
+        471.4175720214844
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0074",
+    "page_number": 2,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "start and stop push button, bypass/VFD selector switch, Auto/Manual selector switch, manual",
+    "bounding_region": {
+      "page_number": 2,
+      "bbox": [
+        158.16000366210938,
+        471.8432922363281,
+        569.520263671875,
+        482.93756103515625
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0075",
+    "page_number": 2,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "speed potentiometer, and the solid-state temperature controller;",
+    "bounding_region": {
+      "page_number": 2,
+      "bbox": [
+        158.16000366210938,
+        483.36328125,
+        442.397705078125,
+        494.4575500488281
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0076",
+    "page_number": 2,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "Cycle the motor on/off when the minimum allowable motor speed is reached to prevent motor",
+    "bounding_region": {
+      "page_number": 2,
+      "bbox": [
+        148.44000244140625,
+        500.88330078125,
+        569.475830078125,
+        511.9775695800781
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0077",
+    "page_number": 2,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "overheating problems.",
+    "bounding_region": {
+      "page_number": 2,
+      "bbox": [
+        158.16000366210938,
+        512.4033203125,
+        259.7801818847656,
+        523.4976196289062
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0078",
+    "page_number": 2,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "Power and Control Panel: Factory prewired panel to control operation of the fan motor, consisting of an",
+    "bounding_region": {
+      "page_number": 2,
+      "bbox": [
+        115.12579345703125,
+        529.8033447265625,
+        569.4010009765625,
+        540.8976440429688
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0079",
+    "page_number": 2,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "NEMA 4 surface wall mounting enclosure equipped with:",
+    "bounding_region": {
+      "page_number": 2,
+      "bbox": [
+        115.08000183105469,
+        541.3233032226562,
+        367.83123779296875,
+        552.4176025390625
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0080",
+    "page_number": 2,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "A door interlock type fused disconnect switch, lockable in the \"OFF\" position, and a system",
+    "bounding_region": {
+      "page_number": 2,
+      "bbox": [
+        153.95999145507812,
+        558.84326171875,
+        569.4520263671875,
+        569.9375610351562
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0081",
+    "page_number": 2,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "\"ON\" indicating LED;",
+    "bounding_region": {
+      "page_number": 2,
+      "bbox": [
+        158.16000366210938,
+        570.36328125,
+        252.9309539794922,
+        581.4575805664062
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0082",
+    "page_number": 2,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "A fused control circuit transformer;",
+    "bounding_region": {
+      "page_number": 2,
+      "bbox": [
+        153.95999145507812,
+        587.88330078125,
+        313.0501403808594,
+        598.9776000976562
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0083",
+    "page_number": 2,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "An across-the-line protected type magnetic contactor for each motor speed;",
+    "bounding_region": {
+      "page_number": 2,
+      "bbox": [
+        153.95999145507812,
+        605.4033203125,
+        494.8976135253906,
+        616.4976196289062
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0084",
+    "page_number": 2,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "An enclosure mounted \"HAND-OFF-AUTO\" selector switch;",
+    "bounding_region": {
+      "page_number": 2,
+      "bbox": [
+        153.95999145507812,
+        622.9232788085938,
+        424.4079284667969,
+        634.017578125
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0085",
+    "page_number": 2,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "A multiport terminal block for connection of auxiliary equipment, including a building",
+    "bounding_region": {
+      "page_number": 2,
+      "bbox": [
+        153.95999145507812,
+        640.3233032226562,
+        569.3792724609375,
+        651.4176025390625
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0086",
+    "page_number": 2,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "automation system;",
+    "bounding_region": {
+      "page_number": 2,
+      "bbox": [
+        158.16000366210938,
+        651.84326171875,
+        247.5714874267578,
+        662.9375610351562
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0087",
+    "page_number": 2,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "A separately enclosed thermostatic temperature controller, with a pipe mounting temperature",
+    "bounding_region": {
+      "page_number": 2,
+      "bbox": [
+        153.95999145507812,
+        669.36328125,
+        569.3258056640625,
+        680.4575805664062
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0088",
+    "page_number": 2,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "sensor with well supplied loose for field installation.",
+    "bounding_region": {
+      "page_number": 2,
+      "bbox": [
+        158.16000366210938,
+        680.88330078125,
+        386.3892822265625,
+        691.9776000976562
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0089",
+    "page_number": 3,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "HALIFAX INFIRMARY",
+    "bounding_region": {
+      "page_number": 3,
+      "bbox": [
+        77.39999389648438,
+        92.38774108886719,
+        192.19497680664062,
+        104.68502807617188
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0090",
+    "page_number": 3,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "EXPANSION",
+    "bounding_region": {
+      "page_number": 3,
+      "bbox": [
+        77.39999389648438,
+        105.10774230957031,
+        148.18646240234375,
+        117.405029296875
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0091",
+    "page_number": 3,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "23 65 16",
+    "bounding_region": {
+      "page_number": 3,
+      "bbox": [
+        525.1997680664062,
+        92.38774108886719,
+        568.0907592773438,
+        104.68502807617188
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0092",
+    "page_number": 3,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "COOLING TOWERS \u2013",
+    "bounding_region": {
+      "page_number": 3,
+      "bbox": [
+        456.1199951171875,
+        105.10774230957031,
+        570.9826049804688,
+        117.405029296875
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0093",
+    "page_number": 3,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "INDUCED DRAFT",
+    "bounding_region": {
+      "page_number": 3,
+      "bbox": [
+        477.5999755859375,
+        117.70774841308594,
+        567.9745483398438,
+        130.00503540039062
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0094",
+    "page_number": 3,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "100% Design Development",
+    "bounding_region": {
+      "page_number": 3,
+      "bbox": [
+        72.0,
+        709.6641235351562,
+        201.9168701171875,
+        723.0963745117188
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0095",
+    "page_number": 3,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "Page 3 of 5",
+    "bounding_region": {
+      "page_number": 3,
+      "bbox": [
+        518.8800048828125,
+        709.6641235351562,
+        571.8768920898438,
+        723.0963745117188
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0096",
+    "page_number": 3,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "Access Door Platform: Galvanized steel bar grating access door platform supported by a galvanized",
+    "bounding_region": {
+      "page_number": 3,
+      "bbox": [
+        115.12579345703125,
+        142.32330322265625,
+        569.4774169921875,
+        153.4175567626953
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0097",
+    "page_number": 3,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "steel framework attached to the tower, located at the end wall access door at each end of the tower and",
+    "bounding_region": {
+      "page_number": 3,
+      "bbox": [
+        115.08000183105469,
+        153.8433074951172,
+        569.4796142578125,
+        164.93756103515625
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0098",
+    "page_number": 3,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "complete with handrail, knee-rail, and toe-board.",
+    "bounding_region": {
+      "page_number": 3,
+      "bbox": [
+        115.08000183105469,
+        165.36331176757812,
+        331.738037109375,
+        176.4575653076172
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0099",
+    "page_number": 3,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "Plenum Walkway: Factory installed galvanized steel bar walkway supported to the tower framework and",
+    "bounding_region": {
+      "page_number": 3,
+      "bbox": [
+        115.12579345703125,
+        182.88331604003906,
+        569.4447631835938,
+        193.97756958007812
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0100",
+    "page_number": 3,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "extending from one access door to the opposite access door at or above the cold-water basin overflow",
+    "bounding_region": {
+      "page_number": 3,
+      "bbox": [
+        115.08000183105469,
+        194.4033203125,
+        569.309814453125,
+        205.49757385253906
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0101",
+    "page_number": 3,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "level.",
+    "bounding_region": {
+      "page_number": 3,
+      "bbox": [
+        115.08000183105469,
+        205.92330932617188,
+        143.97879028320312,
+        217.01756286621094
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0102",
+    "page_number": 3,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "Access Ladder and Handrail: One access ladder should allow for required access to the top of two",
+    "bounding_region": {
+      "page_number": 3,
+      "bbox": [
+        115.12579345703125,
+        223.3233184814453,
+        569.4509887695312,
+        234.41757202148438
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0103",
+    "page_number": 3,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "adjacent tower cells. Handrail assembly to allow access to the entire top surface of both adjacent tower",
+    "bounding_region": {
+      "page_number": 3,
+      "bbox": [
+        115.08000183105469,
+        234.8433074951172,
+        569.4066162109375,
+        245.93756103515625
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0104",
+    "page_number": 3,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "cells. Handrail, knee-rail and toe-board around the perimeter of the top of the tower, designed and",
+    "bounding_region": {
+      "page_number": 3,
+      "bbox": [
+        115.08000183105469,
+        246.3633270263672,
+        569.4390258789062,
+        257.45758056640625
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0105",
+    "page_number": 3,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "constructed in accordance with  Nova Scotia Occupational Health and Safety Act and capable of",
+    "bounding_region": {
+      "page_number": 3,
+      "bbox": [
+        115.08000183105469,
+        257.88330078125,
+        569.3851318359375,
+        268.9775695800781
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0106",
+    "page_number": 3,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "withstanding a 890 N concentrated live load in any direction, and a vertical 450 mm (18\") wide",
+    "bounding_region": {
+      "page_number": 3,
+      "bbox": [
+        115.08000183105469,
+        269.4033203125,
+        569.376953125,
+        280.4975891113281
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0107",
+    "page_number": 3,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "aluminium ladder with 75 mm (3\") I-beam side rails and 32 mm (1\u00bc\") diameter rungs permanently",
+    "bounding_region": {
+      "page_number": 3,
+      "bbox": [
+        115.08000183105469,
+        280.92327880859375,
+        569.3172607421875,
+        292.0175476074219
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0108",
+    "page_number": 3,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "attached to the tower casing and extended up from the base of the tower to the top of the handrail.",
+    "bounding_region": {
+      "page_number": 3,
+      "bbox": [
+        115.08000183105469,
+        292.44329833984375,
+        552.2327880859375,
+        303.5375671386719
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0109",
+    "page_number": 3,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "Ladder Extension: Constructed as for the access ladder, and of a length to extend from the roof or grade",
+    "bounding_region": {
+      "page_number": 3,
+      "bbox": [
+        115.12579345703125,
+        309.8432922363281,
+        569.3639526367188,
+        320.93756103515625
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0110",
+    "page_number": 3,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "(as applicable) to the base of the tower for connection to the access ladder.",
+    "bounding_region": {
+      "page_number": 3,
+      "bbox": [
+        115.08000183105469,
+        321.3633117675781,
+        450.5429382324219,
+        332.45758056640625
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0111",
+    "page_number": 3,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "Ladder Safety Cage: Galvanized steel cage in accordance with Nova Scotia Occupational Health and",
+    "bounding_region": {
+      "page_number": 3,
+      "bbox": [
+        115.12579345703125,
+        338.88330078125,
+        569.442626953125,
+        349.9775695800781
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0112",
+    "page_number": 3,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "Safety extending from a point 2.134 m (7') above the foot of the access ladder to the top of the fan deck",
+    "bounding_region": {
+      "page_number": 3,
+      "bbox": [
+        115.08000183105469,
+        350.4033203125,
+        569.2951049804688,
+        361.4975891113281
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0113",
+    "page_number": 3,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "handrail.",
+    "bounding_region": {
+      "page_number": 3,
+      "bbox": [
+        115.08000183105469,
+        361.92327880859375,
+        156.21255493164062,
+        373.0175476074219
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0114",
+    "page_number": 3,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "Pan Heater: One or more stainless steel electric immersion heaters installed in threaded couplings and",
+    "bounding_region": {
+      "page_number": 3,
+      "bbox": [
+        115.12579345703125,
+        379.32330322265625,
+        569.284912109375,
+        390.4175720214844
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0115",
+    "page_number": 3,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "secured in place in the side of the cold-water basin, and capable of maintaining 4.4 deg. C               (40",
+    "bounding_region": {
+      "page_number": 3,
+      "bbox": [
+        115.08000183105469,
+        390.8432922363281,
+        569.3793334960938,
+        401.93756103515625
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0116",
+    "page_number": 3,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "deg. F) water temperature in the basin with a -26 deg. C (-15 deg. F) ambient temperature and a wind",
+    "bounding_region": {
+      "page_number": 3,
+      "bbox": [
+        115.08000183105469,
+        402.36328125,
+        569.4983520507812,
+        413.4575500488281
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0117",
+    "page_number": 3,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "velocity of 25 km/h (15.5 miles/hr). The heater assembly is to be complete with a control probe located",
+    "bounding_region": {
+      "page_number": 3,
+      "bbox": [
+        115.08000183105469,
+        413.88330078125,
+        569.3643188476562,
+        424.9775695800781
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0118",
+    "page_number": 3,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "in the basin to monitor water level and temperature, and a wall mounting power and control panel",
+    "bounding_region": {
+      "page_number": 3,
+      "bbox": [
+        115.08000183105469,
+        425.4033203125,
+        569.4302368164062,
+        436.4975891113281
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0119",
+    "page_number": 3,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "equipped with:",
+    "bounding_region": {
+      "page_number": 3,
+      "bbox": [
+        115.08000183105469,
+        436.92327880859375,
+        182.21514892578125,
+        448.0175476074219
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0120",
+    "page_number": 3,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "An NEMA 4 enclosure with nameplate;",
+    "bounding_region": {
+      "page_number": 3,
+      "bbox": [
+        153.95999145507812,
+        454.32330322265625,
+        331.90753173828125,
+        465.4175720214844
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0121",
+    "page_number": 3,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "A door mounted unfused disconnect with handle lockable in the \"OFF\" position;",
+    "bounding_region": {
+      "page_number": 3,
+      "bbox": [
+        153.95999145507812,
+        471.8432922363281,
+        510.7146301269531,
+        482.93756103515625
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0122",
+    "page_number": 3,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "A protected magnetic contactor to energize the heaters;",
+    "bounding_region": {
+      "page_number": 3,
+      "bbox": [
+        153.95999145507812,
+        489.36328125,
+        407.0802307128906,
+        500.4575500488281
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0123",
+    "page_number": 3,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "A 24-volt secondary fused control transformer;",
+    "bounding_region": {
+      "page_number": 3,
+      "bbox": [
+        153.95999145507812,
+        506.88330078125,
+        365.9825439453125,
+        517.9776000976562
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0124",
+    "page_number": 3,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "A solid-state circuit board for temperature and low water cut-off control.",
+    "bounding_region": {
+      "page_number": 3,
+      "bbox": [
+        153.95999145507812,
+        524.4033203125,
+        474.7386169433594,
+        535.4976196289062
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0125",
+    "page_number": 3,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "Vibration Limit Switch: Single pole, double throw, manual remote reset, adjustable vibration limit switch",
+    "bounding_region": {
+      "page_number": 3,
+      "bbox": [
+        115.12579345703125,
+        541.8033447265625,
+        569.3440551757812,
+        552.8976440429688
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0126",
+    "page_number": 3,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "with contact for building automation system monitoring in a NEMA 4 housing, installed on the",
+    "bounding_region": {
+      "page_number": 3,
+      "bbox": [
+        115.08000183105469,
+        553.3233032226562,
+        569.3690795898438,
+        564.4176025390625
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0127",
+    "page_number": 3,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "mechanical equipment support structure for site connection to the tower control panel to shut-down the",
+    "bounding_region": {
+      "page_number": 3,
+      "bbox": [
+        115.08000183105469,
+        564.84326171875,
+        569.4684448242188,
+        575.9375610351562
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0128",
+    "page_number": 3,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "tower should excessive vibration occur. Vibration Control System shall include:",
+    "bounding_region": {
+      "page_number": 3,
+      "bbox": [
+        115.08000183105469,
+        576.36328125,
+        465.5646057128906,
+        587.4575805664062
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0129",
+    "page_number": 3,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "Vibration cut out switch with a weather proof cover to detect vibration",
+    "bounding_region": {
+      "page_number": 3,
+      "bbox": [
+        153.95999145507812,
+        593.88330078125,
+        465.1869201660156,
+        604.9776000976562
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0130",
+    "page_number": 3,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "Alarm indication",
+    "bounding_region": {
+      "page_number": 3,
+      "bbox": [
+        153.95999145507812,
+        611.4033203125,
+        232.0122528076172,
+        622.4976196289062
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0131",
+    "page_number": 3,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "Shut down of the cooling tower fan",
+    "bounding_region": {
+      "page_number": 3,
+      "bbox": [
+        153.95999145507812,
+        628.9232788085938,
+        314.1283264160156,
+        640.017578125
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0132",
+    "page_number": 3,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "Time delay feature (for start up sequence)",
+    "bounding_region": {
+      "page_number": 3,
+      "bbox": [
+        153.95999145507812,
+        646.3233032226562,
+        346.9004821777344,
+        657.4176025390625
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0133",
+    "page_number": 3,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "Local reset",
+    "bounding_region": {
+      "page_number": 3,
+      "bbox": [
+        153.95999145507812,
+        663.84326171875,
+        209.80535888671875,
+        674.9375610351562
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0134",
+    "page_number": 3,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "Control relay to connect to a BAS. Vibration alarms and shutdown shall be visible on the BAS",
+    "bounding_region": {
+      "page_number": 3,
+      "bbox": [
+        153.95999145507812,
+        681.36328125,
+        569.5406494140625,
+        692.4575805664062
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0135",
+    "page_number": 4,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "HALIFAX INFIRMARY",
+    "bounding_region": {
+      "page_number": 4,
+      "bbox": [
+        77.39999389648438,
+        92.38774108886719,
+        192.19497680664062,
+        104.68502807617188
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0136",
+    "page_number": 4,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "EXPANSION",
+    "bounding_region": {
+      "page_number": 4,
+      "bbox": [
+        77.39999389648438,
+        105.10774230957031,
+        148.18646240234375,
+        117.405029296875
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0137",
+    "page_number": 4,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "23 65 16",
+    "bounding_region": {
+      "page_number": 4,
+      "bbox": [
+        525.1997680664062,
+        92.38774108886719,
+        568.0907592773438,
+        104.68502807617188
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0138",
+    "page_number": 4,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "COOLING TOWERS \u2013",
+    "bounding_region": {
+      "page_number": 4,
+      "bbox": [
+        456.1199951171875,
+        105.10774230957031,
+        570.9826049804688,
+        117.405029296875
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0139",
+    "page_number": 4,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "INDUCED DRAFT",
+    "bounding_region": {
+      "page_number": 4,
+      "bbox": [
+        477.5999755859375,
+        117.70774841308594,
+        567.9745483398438,
+        130.00503540039062
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0140",
+    "page_number": 4,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "100% Design Development",
+    "bounding_region": {
+      "page_number": 4,
+      "bbox": [
+        72.0,
+        709.6641235351562,
+        201.9168701171875,
+        723.0963745117188
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0141",
+    "page_number": 4,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "Page 4 of 5",
+    "bounding_region": {
+      "page_number": 4,
+      "bbox": [
+        518.8800048828125,
+        709.6641235351562,
+        571.8768920898438,
+        723.0963745117188
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0142",
+    "page_number": 4,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "Intentionally Deleted",
+    "bounding_region": {
+      "page_number": 4,
+      "bbox": [
+        115.12579345703125,
+        142.4433135986328,
+        208.4108428955078,
+        153.53756713867188
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0143",
+    "page_number": 4,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "Intentionally Deleted",
+    "bounding_region": {
+      "page_number": 4,
+      "bbox": [
+        115.12579345703125,
+        159.8433074951172,
+        208.4108428955078,
+        170.93756103515625
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0144",
+    "page_number": 4,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "Vibration Isolation: Weatherproof vibration isolation rails, zinc coated after fabrication, designed for a",
+    "bounding_region": {
+      "page_number": 4,
+      "bbox": [
+        115.12579345703125,
+        177.36331176757812,
+        569.46630859375,
+        188.4575653076172
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0145",
+    "page_number": 4,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "25 mm (1\") static deflection and a maximum wind speed of 80 km/h (50 miles/hr), factory supplied loose",
+    "bounding_region": {
+      "page_number": 4,
+      "bbox": [
+        115.08000183105469,
+        188.88331604003906,
+        569.46533203125,
+        199.97756958007812
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0146",
+    "page_number": 4,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "with the tower and conforming to requirements specified in the mechanical specification section entitled",
+    "bounding_region": {
+      "page_number": 4,
+      "bbox": [
+        115.08000183105469,
+        200.4033203125,
+        569.432373046875,
+        211.49757385253906
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0147",
+    "page_number": 4,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "Mechanical Vibration Control.",
+    "bounding_region": {
+      "page_number": 4,
+      "bbox": [
+        115.08000183105469,
+        211.92330932617188,
+        248.4254913330078,
+        223.01756286621094
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0148",
+    "page_number": 4,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "Provide a side stream condenser water filter package complete with filter backwash drain.",
+    "bounding_region": {
+      "page_number": 4,
+      "bbox": [
+        153.95999145507812,
+        229.4433135986328,
+        556.8778076171875,
+        240.53756713867188
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0149",
+    "page_number": 4,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "Seismic Restraint Anchoring: Suitable anchoring connection hardware factory installed on the",
+    "bounding_region": {
+      "page_number": 4,
+      "bbox": [
+        153.95999145507812,
+        246.8433074951172,
+        569.4607543945312,
+        257.93756103515625
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0150",
+    "page_number": 4,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "tower to suit requirements of the mechanical specification section entitled Seismic Control",
+    "bounding_region": {
+      "page_number": 4,
+      "bbox": [
+        158.16000366210938,
+        258.3633117675781,
+        569.4005737304688,
+        269.45758056640625
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0151",
+    "page_number": 4,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "and Restraint.",
+    "bounding_region": {
+      "page_number": 4,
+      "bbox": [
+        158.16000366210938,
+        269.88330078125,
+        223.16432189941406,
+        280.9775695800781
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0152",
+    "page_number": 4,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "Sound levels shall be independently verified by a CTI-licensed sound test agency to ensure validity and",
+    "bounding_region": {
+      "page_number": 4,
+      "bbox": [
+        115.12579345703125,
+        287.4033203125,
+        569.3341674804688,
+        298.4975891113281
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0153",
+    "page_number": 4,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "reliability of the Supplier\u2019s published values. Measurement and analysis of the sound levels shall be",
+    "bounding_region": {
+      "page_number": 4,
+      "bbox": [
+        115.08000183105469,
+        298.92327880859375,
+        569.3670654296875,
+        310.0175476074219
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0154",
+    "page_number": 4,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "conducted by a certified Professional Engineer in Acoustical Engineering. Sound pressure levels shall",
+    "bounding_region": {
+      "page_number": 4,
+      "bbox": [
+        115.08000183105469,
+        310.32330322265625,
+        569.44482421875,
+        321.4175720214844
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0155",
+    "page_number": 4,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "be measured and recorded in the acoustic near-field and far-field locations using ANSI S1.4 Type 1",
+    "bounding_region": {
+      "page_number": 4,
+      "bbox": [
+        115.08000183105469,
+        321.8432922363281,
+        569.5164184570312,
+        332.93756103515625
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0156",
+    "page_number": 4,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "precision instrumentation and in full conformance with CTI ATC-128 test code published by the Cooling",
+    "bounding_region": {
+      "page_number": 4,
+      "bbox": [
+        115.08000183105469,
+        333.3633117675781,
+        569.41357421875,
+        344.45758056640625
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0157",
+    "page_number": 4,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "Technology Institute (CTI). All low sound options shall be CTI certified for thermal performance.",
+    "bounding_region": {
+      "page_number": 4,
+      "bbox": [
+        115.08000183105469,
+        344.88330078125,
+        538.326416015625,
+        355.9775695800781
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0158",
+    "page_number": 4,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "The tower shall be capable of cooling water in accordance with the equipment schedules, and its",
+    "bounding_region": {
+      "page_number": 4,
+      "bbox": [
+        115.12579345703125,
+        362.4033203125,
+        569.4058837890625,
+        373.4975891113281
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0159",
+    "page_number": 4,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "thermal rating shall be Certified by the Cooling Technology Institute.",
+    "bounding_region": {
+      "page_number": 4,
+      "bbox": [
+        115.08000183105469,
+        373.92327880859375,
+        417.8487243652344,
+        385.0175476074219
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0160",
+    "page_number": 4,
+    "heading_path": "PART 2 PRODUCTS",
+    "text": "The tower shall be capable of a minimum gpm/Hp efficiency per ASHRAE Standard 90.1.",
+    "bounding_region": {
+      "page_number": 4,
+      "bbox": [
+        115.12579345703125,
+        391.44329833984375,
+        511.66192626953125,
+        402.5375671386719
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0161",
+    "page_number": 4,
+    "heading_path": "PART 3 EXECUTION",
+    "text": "Installation",
+    "bounding_region": {
+      "page_number": 4,
+      "bbox": [
+        115.08000183105469,
+        432.36328125,
+        170.5743865966797,
+        443.4575500488281
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0162",
+    "page_number": 4,
+    "heading_path": "PART 3 EXECUTION",
+    "text": "Provide vibration isolation (equipment isolators, flexible pipe connectors, etc.) in accordance with",
+    "bounding_region": {
+      "page_number": 4,
+      "bbox": [
+        115.05281066894531,
+        452.88330078125,
+        569.4142456054688,
+        463.9775695800781
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0163",
+    "page_number": 4,
+    "heading_path": "PART 3 EXECUTION",
+    "text": "Section 20 05 20 \u2013 MECHANICAL VIBRATION CONTROL.",
+    "bounding_region": {
+      "page_number": 4,
+      "bbox": [
+        115.08000183105469,
+        464.4033203125,
+        380.55462646484375,
+        475.4975891113281
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0164",
+    "page_number": 4,
+    "heading_path": "PART 3 EXECUTION",
+    "text": "Provide Variable Frequency Drive(s) (VFD) for each cooling tower fan in accordance with Section 20",
+    "bounding_region": {
+      "page_number": 4,
+      "bbox": [
+        115.05281066894531,
+        481.8033142089844,
+        569.3779907226562,
+        492.8975830078125
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0165",
+    "page_number": 4,
+    "heading_path": "PART 3 EXECUTION",
+    "text": "05 30 - VARIABLE FREQUENCY DRIVES.",
+    "bounding_region": {
+      "page_number": 4,
+      "bbox": [
+        115.08000183105469,
+        493.32330322265625,
+        308.8216857910156,
+        504.4175720214844
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0166",
+    "page_number": 4,
+    "heading_path": "PART 3 EXECUTION",
+    "text": "Provide start-up and vibration testing throughout the fan speed range. Identify and lockout",
+    "bounding_region": {
+      "page_number": 4,
+      "bbox": [
+        148.44000244140625,
+        510.84326171875,
+        569.4651489257812,
+        521.9375610351562
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0167",
+    "page_number": 4,
+    "heading_path": "PART 3 EXECUTION",
+    "text": "any natural frequency vibration levels which may exceed CTI guidelines.",
+    "bounding_region": {
+      "page_number": 4,
+      "bbox": [
+        158.16000366210938,
+        522.36328125,
+        480.3486633300781,
+        533.4575805664062
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0168",
+    "page_number": 4,
+    "heading_path": "PART 3 EXECUTION",
+    "text": "Provide cooling tower support beams between the cooling tower and the vibration spring isolators where",
+    "bounding_region": {
+      "page_number": 4,
+      "bbox": [
+        115.05281066894531,
+        539.88330078125,
+        569.4461669921875,
+        550.9776000976562
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0169",
+    "page_number": 4,
+    "heading_path": "PART 3 EXECUTION",
+    "text": "required to meet cooling tower manufacturer's requirements.",
+    "bounding_region": {
+      "page_number": 4,
+      "bbox": [
+        115.08000183105469,
+        551.4033203125,
+        384.7345275878906,
+        562.4976196289062
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0170",
+    "page_number": 4,
+    "heading_path": "PART 3 EXECUTION",
+    "text": "Provide isolation valves at all tower connections, including equalising lines and sweeper systems where",
+    "bounding_region": {
+      "page_number": 4,
+      "bbox": [
+        115.05281066894531,
+        568.8033447265625,
+        569.380615234375,
+        579.8976440429688
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0171",
+    "page_number": 4,
+    "heading_path": "PART 3 EXECUTION",
+    "text": "applicable, and drain valves in accordance with Section 22 13 16 \u2013 DRAINAGE WASTE AND VENT",
+    "bounding_region": {
+      "page_number": 4,
+      "bbox": [
+        115.08000183105469,
+        580.3233032226562,
+        569.5315551757812,
+        591.4176025390625
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0172",
+    "page_number": 4,
+    "heading_path": "PART 3 EXECUTION",
+    "text": "PIPING AND VALVES. A flow balancing valve shall be installed on the piping to each hot water basin",
+    "bounding_region": {
+      "page_number": 4,
+      "bbox": [
+        115.08000183105469,
+        591.84326171875,
+        569.4866333007812,
+        602.9375610351562
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0173",
+    "page_number": 4,
+    "heading_path": "PART 3 EXECUTION",
+    "text": "to ensure equal flow.",
+    "bounding_region": {
+      "page_number": 4,
+      "bbox": [
+        115.08000183105469,
+        603.36328125,
+        209.98558044433594,
+        614.4575805664062
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0174",
+    "page_number": 4,
+    "heading_path": "PART 3 EXECUTION",
+    "text": "Provide drain valves on the low points and either side of isolation valves of the condenser water and",
+    "bounding_region": {
+      "page_number": 4,
+      "bbox": [
+        115.05281066894531,
+        620.88330078125,
+        569.380615234375,
+        631.9776000976562
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0175",
+    "page_number": 4,
+    "heading_path": "PART 3 EXECUTION",
+    "text": "equalizer piping to achieve complete system drainage.",
+    "bounding_region": {
+      "page_number": 4,
+      "bbox": [
+        115.08000183105469,
+        632.4033203125,
+        358.3802185058594,
+        643.4976196289062
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0176",
+    "page_number": 4,
+    "heading_path": "PART 3 EXECUTION",
+    "text": "Pipe connections to the cooling tower (condenser water, equalizer, etc.) shall be provided with",
+    "bounding_region": {
+      "page_number": 4,
+      "bbox": [
+        115.05281066894531,
+        649.8033447265625,
+        569.379150390625,
+        660.8976440429688
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0177",
+    "page_number": 4,
+    "heading_path": "PART 3 EXECUTION",
+    "text": "twin-sphere flexible connections and isolation valves. The make-up water pipe connections shall have",
+    "bounding_region": {
+      "page_number": 4,
+      "bbox": [
+        115.08000183105469,
+        661.3233032226562,
+        569.3850708007812,
+        672.4176025390625
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0178",
+    "page_number": 4,
+    "heading_path": "PART 3 EXECUTION",
+    "text": "braided stainless steel flexible connections.",
+    "bounding_region": {
+      "page_number": 4,
+      "bbox": [
+        115.08000183105469,
+        672.84326171875,
+        309.5069274902344,
+        683.9375610351562
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0179",
+    "page_number": 5,
+    "heading_path": "PART 3 EXECUTION",
+    "text": "HALIFAX INFIRMARY",
+    "bounding_region": {
+      "page_number": 5,
+      "bbox": [
+        77.39999389648438,
+        92.38774108886719,
+        192.19497680664062,
+        104.68502807617188
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0180",
+    "page_number": 5,
+    "heading_path": "PART 3 EXECUTION",
+    "text": "EXPANSION",
+    "bounding_region": {
+      "page_number": 5,
+      "bbox": [
+        77.39999389648438,
+        105.10774230957031,
+        148.18646240234375,
+        117.405029296875
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0181",
+    "page_number": 5,
+    "heading_path": "PART 3 EXECUTION",
+    "text": "23 65 16",
+    "bounding_region": {
+      "page_number": 5,
+      "bbox": [
+        525.1997680664062,
+        92.38774108886719,
+        568.0907592773438,
+        104.68502807617188
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0182",
+    "page_number": 5,
+    "heading_path": "PART 3 EXECUTION",
+    "text": "COOLING TOWERS \u2013",
+    "bounding_region": {
+      "page_number": 5,
+      "bbox": [
+        456.1199951171875,
+        105.10774230957031,
+        570.9826049804688,
+        117.405029296875
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0183",
+    "page_number": 5,
+    "heading_path": "PART 3 EXECUTION",
+    "text": "INDUCED DRAFT",
+    "bounding_region": {
+      "page_number": 5,
+      "bbox": [
+        477.5999755859375,
+        117.70774841308594,
+        567.9745483398438,
+        130.00503540039062
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0184",
+    "page_number": 5,
+    "heading_path": "PART 3 EXECUTION",
+    "text": "100% Design Development",
+    "bounding_region": {
+      "page_number": 5,
+      "bbox": [
+        72.0,
+        709.6641235351562,
+        201.9168701171875,
+        723.0963745117188
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0185",
+    "page_number": 5,
+    "heading_path": "PART 3 EXECUTION",
+    "text": "Page 5 of 5",
+    "bounding_region": {
+      "page_number": 5,
+      "bbox": [
+        518.8800048828125,
+        709.6641235351562,
+        571.8768920898438,
+        723.0963745117188
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0186",
+    "page_number": 5,
+    "heading_path": "PART 3 EXECUTION",
+    "text": "Provide equalizer pipe or header between each cell basin of a multiple cell or multiple cooling tower",
+    "bounding_region": {
+      "page_number": 5,
+      "bbox": [
+        115.05281066894531,
+        142.32330322265625,
+        569.3604736328125,
+        153.4175567626953
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0187",
+    "page_number": 5,
+    "heading_path": "PART 3 EXECUTION",
+    "text": "installation. The equalizer line shall be installed complete with a capped clean-out.",
+    "bounding_region": {
+      "page_number": 5,
+      "bbox": [
+        115.08000183105469,
+        153.8433074951172,
+        480.4012145996094,
+        164.93756103515625
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0188",
+    "page_number": 5,
+    "heading_path": "PART 3 EXECUTION",
+    "text": "Provide an adjustable bleed-off connection in the water inlet line to the tower above the sump pump",
+    "bounding_region": {
+      "page_number": 5,
+      "bbox": [
+        115.05281066894531,
+        171.36331176757812,
+        569.5093994140625,
+        182.4575653076172
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0189",
+    "page_number": 5,
+    "heading_path": "PART 3 EXECUTION",
+    "text": "level and adjust to the required bleed-off rate.",
+    "bounding_region": {
+      "page_number": 5,
+      "bbox": [
+        115.08000183105469,
+        182.88331604003906,
+        318.91748046875,
+        193.97756958007812
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0190",
+    "page_number": 5,
+    "heading_path": "PART 3 EXECUTION",
+    "text": "Provide passivation of the metal surfaces of the cooling towers in order to prevent the premature",
+    "bounding_region": {
+      "page_number": 5,
+      "bbox": [
+        115.05281066894531,
+        200.4033203125,
+        569.477294921875,
+        211.49757385253906
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0191",
+    "page_number": 5,
+    "heading_path": "PART 3 EXECUTION",
+    "text": "corrosion of the galvanizing. The Contractor shall hire the services of The building operator's prescribed",
+    "bounding_region": {
+      "page_number": 5,
+      "bbox": [
+        115.08000183105469,
+        211.92330932617188,
+        569.4290161132812,
+        223.01756286621094
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0192",
+    "page_number": 5,
+    "heading_path": "PART 3 EXECUTION",
+    "text": "chemical treatment company to complete the passivation process and any associated chemical",
+    "bounding_region": {
+      "page_number": 5,
+      "bbox": [
+        115.08000183105469,
+        223.3233184814453,
+        569.4568481445312,
+        234.41757202148438
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0193",
+    "page_number": 5,
+    "heading_path": "PART 3 EXECUTION",
+    "text": "treatment.",
+    "bounding_region": {
+      "page_number": 5,
+      "bbox": [
+        115.08000183105469,
+        234.8433074951172,
+        162.7869110107422,
+        245.93756103515625
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk-0194",
+    "page_number": 5,
+    "heading_path": "PART 3 EXECUTION",
+    "text": "END OF SECTION",
+    "bounding_region": {
+      "page_number": 5,
+      "bbox": [
+        300.3600158691406,
+        270.3633117675781,
+        387.9675598144531,
+        281.45758056640625
+      ]
+    }
+  }
+]

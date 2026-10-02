@@ -1,0 +1,188 @@
+
+--- Page 1 ---
+HALIFAX INFIRMARY 23 65 16
+EXPANSION COOLING TOWERS –
+INDUCED DRAFT
+PART 1 - GENERAL
+SUBMITTALS
+Shop Drawings/Product Data: Submit cooling tower Shop Drawings/product Design Data sheets,
+complete with piping and power and control wiring schematics, accessories, rated capacities, weights,
+and all other data to confirm that the cooling tower proposed meets all requirement of the Project
+Agreement.
+QUALITY ASSURANCE
+Codes and Regulations: The cooling tower(s) and installation of cooling tower(s) are to be in accordance
+with requirements of the following:
+Applicable Law;
+Cooling Technology Institute CTI STD-201, Certified Cooling Towers;
+Cooling Technology Institute CTI STD-105, Acceptance Test Code;
+ASHRAE Standard 90.1, Energy Standard for Buildings.
+PART 2 - PRODUCTS
+COOLING TOWER
+Induced draft, cross-flow, vertical air discharge, factory assembled, with thermal performance certified
+by the Cooling Technology Institute and energy efficiency meeting requirements of ASHRAE 90.1.
+General Re: Tower Construction: The tower and all its components are to be designed to withstand all
+applicable wind, seismic, shipping and hoisting loads, and, unless otherwise specified, all metal
+components, including the support structure, casing, fan cylinder extensions, and all nuts, bolts and
+fasteners are to be constructed of G-235 hot-dipped galvanized steel with all cut edges given a heavy
+factory coat of zinc-rich compound. The tower structure is to be constructed using double-brake flanges
+with water-tight joints. The fan(s) and drive system, including the motor are to be factory mounted and
+aligned and located in the dry entering air stream. The heat transfer section(s) consist of fill, spray water
+distribution system, and drift eliminators.
+Corrosion Resistant Coating: All mechanical equipment components exposed to the ambient air shall
+be provided with a corrosion resistant coating. Coating material and coating process shall have passed
+a minimum of 4500-hour salt spray test in accordance with ASTM standard B117.85.
+Fill & Drift Eliminators: Formed from self-extinguishing PVC with a flame spread rating of five as per
+ASTM E84, with a spacing between fill sheets of 20 mm (¾"), shall limit drift loss to a maximum of 0.005
+% of the recirculation rate and suspended from steel tubing elevated above the cold-water basin.
+Water Distribution System: The water distribution system is to distribute water evenly over the fill and is
+to consist of an atmospheric basin equipped with removable stainless-steel covers and low flow weirs.
+Provide independent connections (make up water connection, overflow connection, condenser water
+inlet connection, and condenser water outlet connection, equalizer line connection etc.) for each cooling
+tower cell.
+100% Design Development Page 1 of 5
+--- Page 2 ---
+HALIFAX INFIRMARY 23 65 16
+EXPANSION COOLING TOWERS –
+INDUCED DRAFT
+Cold Water Basin: Sloped for positive drainage to a depressed section into which accumulated silt can
+be flushed to prevent the build-up of silt and debris under the fill area, a large area lift-out galvanized
+steel suction strainer with perforated openings sized smaller than spray nozzle orifices and a galvanized
+steel anti-vortexing device to prevent air entrainment, a corrosion resistant slow-acting water make-up
+valve with polystyrene filled plastic float for adjustment of the operating water level, circular access
+doors for access to the strainer and water make-up valve assembly, and all required pipe connections.
+The basin is to be factory lined.
+Fan(s): Axial flow type, dynamically balanced with aluminium alloy blades and air discharge through a
+fan cylinder designed for streamlined air entry and minimum tip clearance, and equipped with a conical,
+non-sagging removable fan guard. Each fan and shaft is to be supported by grease lubricated, self-
+aligning, heavy-duty L10 (80,000 hr. life) bearings with moisture-proof seals, integral slinger collars, and
+lubrication nipples.
+Motor(s) and Drive: TEFC motor, variable torque, specially insulated for exterior cooling tower duty, and
+gearbox with tire type close coupling, and guard in accordance with requirements specified in the
+mechanical specification section entitled Basic Mechanical Materials and Methods.
+Variable Speed Drive: In accordance with requirements specified in the mechanical specification section
+entitled Variable Frequency Drives and supplied with the tower by the tower Supplier. The VFD is to:
+Include a solid state, PID temperature controller to adjust frequency output of the drive-in
+response to the tower cold water temperature, and the temperature of the cold water is to be
+displayed on the VFD door;
+Be equipped with a pipe mounting temperature sensor with well supplied loose for field
+installation;
+Be equipped with a bypass contactor to be cycled on and off while operating in bypass to
+maintain the set-point temperature of the cold water;
+Be equipped with operator controls mounted on the front of the enclosure and consisting of
+start and stop push button, bypass/VFD selector switch, Auto/Manual selector switch, manual
+speed potentiometer, and the solid-state temperature controller;
+Cycle the motor on/off when the minimum allowable motor speed is reached to prevent motor
+overheating problems.
+Power and Control Panel: Factory prewired panel to control operation of the fan motor, consisting of an
+NEMA 4 surface wall mounting enclosure equipped with:
+A door interlock type fused disconnect switch, lockable in the "OFF" position, and a system
+"ON" indicating LED;
+A fused control circuit transformer;
+An across-the-line protected type magnetic contactor for each motor speed;
+An enclosure mounted "HAND-OFF-AUTO" selector switch;
+A multiport terminal block for connection of auxiliary equipment, including a building
+automation system;
+A separately enclosed thermostatic temperature controller, with a pipe mounting temperature
+sensor with well supplied loose for field installation.
+100% Design Development Page 2 of 5
+--- Page 3 ---
+HALIFAX INFIRMARY 23 65 16
+EXPANSION COOLING TOWERS –
+INDUCED DRAFT
+Access Door Platform: Galvanized steel bar grating access door platform supported by a galvanized
+steel framework attached to the tower, located at the end wall access door at each end of the tower and
+complete with handrail, knee-rail, and toe-board.
+Plenum Walkway: Factory installed galvanized steel bar walkway supported to the tower framework and
+extending from one access door to the opposite access door at or above the cold-water basin overflow
+level.
+Access Ladder and Handrail: One access ladder should allow for required access to the top of two
+adjacent tower cells. Handrail assembly to allow access to the entire top surface of both adjacent tower
+cells. Handrail, knee-rail and toe-board around the perimeter of the top of the tower, designed and
+constructed in accordance with Nova Scotia Occupational Health and Safety Act and capable of
+withstanding a 890 N concentrated live load in any direction, and a vertical 450 mm (18") wide
+aluminium ladder with 75 mm (3") I-beam side rails and 32 mm (1¼") diameter rungs permanently
+attached to the tower casing and extended up from the base of the tower to the top of the handrail.
+Ladder Extension: Constructed as for the access ladder, and of a length to extend from the roof or grade
+(as applicable) to the base of the tower for connection to the access ladder.
+Ladder Safety Cage: Galvanized steel cage in accordance with Nova Scotia Occupational Health and
+Safety extending from a point 2.134 m (7') above the foot of the access ladder to the top of the fan deck
+handrail.
+Pan Heater: One or more stainless steel electric immersion heaters installed in threaded couplings and
+secured in place in the side of the cold-water basin, and capable of maintaining 4.4 deg. C (40
+deg. F) water temperature in the basin with a -26 deg. C (-15 deg. F) ambient temperature and a wind
+velocity of 25 km/h (15.5 miles/hr). The heater assembly is to be complete with a control probe located
+in the basin to monitor water level and temperature, and a wall mounting power and control panel
+equipped with:
+An NEMA 4 enclosure with nameplate;
+A door mounted unfused disconnect with handle lockable in the "OFF" position;
+A protected magnetic contactor to energize the heaters;
+A 24-volt secondary fused control transformer;
+A solid-state circuit board for temperature and low water cut-off control.
+Vibration Limit Switch: Single pole, double throw, manual remote reset, adjustable vibration limit switch
+with contact for building automation system monitoring in a NEMA 4 housing, installed on the
+mechanical equipment support structure for site connection to the tower control panel to shut-down the
+tower should excessive vibration occur. Vibration Control System shall include:
+Vibration cut out switch with a weather proof cover to detect vibration
+Alarm indication
+Shut down of the cooling tower fan
+Time delay feature (for start up sequence)
+Local reset
+Control relay to connect to a BAS. Vibration alarms and shutdown shall be visible on the BAS
+100% Design Development Page 3 of 5
+--- Page 4 ---
+HALIFAX INFIRMARY 23 65 16
+EXPANSION COOLING TOWERS –
+INDUCED DRAFT
+Intentionally Deleted
+Intentionally Deleted
+Vibration Isolation: Weatherproof vibration isolation rails, zinc coated after fabrication, designed for a
+25 mm (1") static deflection and a maximum wind speed of 80 km/h (50 miles/hr), factory supplied loose
+with the tower and conforming to requirements specified in the mechanical specification section entitled
+Mechanical Vibration Control.
+Provide a side stream condenser water filter package complete with filter backwash drain.
+Seismic Restraint Anchoring: Suitable anchoring connection hardware factory installed on the
+tower to suit requirements of the mechanical specification section entitled Seismic Control
+and Restraint.
+Sound levels shall be independently verified by a CTI-licensed sound test agency to ensure validity and
+reliability of the Supplier’s published values. Measurement and analysis of the sound levels shall be
+conducted by a certified Professional Engineer in Acoustical Engineering. Sound pressure levels shall
+be measured and recorded in the acoustic near-field and far-field locations using ANSI S1.4 Type 1
+precision instrumentation and in full conformance with CTI ATC-128 test code published by the Cooling
+Technology Institute (CTI). All low sound options shall be CTI certified for thermal performance.
+The tower shall be capable of cooling water in accordance with the equipment schedules, and its
+thermal rating shall be Certified by the Cooling Technology Institute.
+The tower shall be capable of a minimum gpm/Hp efficiency per ASHRAE Standard 90.1.
+PART 3 - EXECUTION
+Installation
+Provide vibration isolation (equipment isolators, flexible pipe connectors, etc.) in accordance with
+Section 20 05 20 – MECHANICAL VIBRATION CONTROL.
+Provide Variable Frequency Drive(s) (VFD) for each cooling tower fan in accordance with Section 20
+05 30 - VARIABLE FREQUENCY DRIVES.
+Provide start-up and vibration testing throughout the fan speed range. Identify and lockout
+any natural frequency vibration levels which may exceed CTI guidelines.
+Provide cooling tower support beams between the cooling tower and the vibration spring isolators where
+required to meet cooling tower manufacturer's requirements.
+Provide isolation valves at all tower connections, including equalising lines and sweeper systems where
+applicable, and drain valves in accordance with Section 22 13 16 – DRAINAGE WASTE AND VENT
+PIPING AND VALVES. A flow balancing valve shall be installed on the piping to each hot water basin
+to ensure equal flow.
+Provide drain valves on the low points and either side of isolation valves of the condenser water and
+equalizer piping to achieve complete system drainage.
+Pipe connections to the cooling tower (condenser water, equalizer, etc.) shall be provided with
+twin-sphere flexible connections and isolation valves. The make-up water pipe connections shall have
+braided stainless steel flexible connections.
+100% Design Development Page 4 of 5
+--- Page 5 ---
+HALIFAX INFIRMARY 23 65 16
+EXPANSION COOLING TOWERS –
+INDUCED DRAFT
+Provide equalizer pipe or header between each cell basin of a multiple cell or multiple cooling tower
+installation. The equalizer line shall be installed complete with a capped clean-out.
+Provide an adjustable bleed-off connection in the water inlet line to the tower above the sump pump
+level and adjust to the required bleed-off rate.
+Provide passivation of the metal surfaces of the cooling towers in order to prevent the premature
+corrosion of the galvanizing. The Contractor shall hire the services of The building operator's prescribed
+chemical treatment company to complete the passivation process and any associated chemical
+treatment.
+END OF SECTION
+100% Design Development Page 5 of 5
