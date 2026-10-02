@@ -15,7 +15,7 @@ class AgentRuntime:
         self,
         conversation_store: ConversationStore,
         graph: GraphRunner,
-    ) -> None:
+    ) -> None: 
         self.conversation_store = conversation_store
         self.graph = graph
 
